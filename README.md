@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gnsym
+- 👀 I’m interested in programming. 
+- 🌱 I’m currently learning Core Java, spring, boot, hibernate, jsp, servlet, libgdx, javascript, cocos, mysql, DBMS, Android, C, C++, Python, Git, Jira etc.. 
+- 💞️ I’m looking to collaborate on every guy who passionate about programming 
